@@ -19,3 +19,6 @@
 - **examples** -- example programs in your porposed language should be inside this folder
 
 ### For more information read the README file inside ./doc
+
+## Grade
+  Project grade - 14.3
